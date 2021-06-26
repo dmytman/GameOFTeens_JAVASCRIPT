@@ -11,7 +11,7 @@
     box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
   }
 
-  html, body {
+  .html, .body {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -172,4 +172,8 @@
 .wrapper .youtube:hover .tooltip::before {
   background-color: #de463b;
   color: #ffffff;
+}
+
+a{
+  text-decoration: none;
 }
