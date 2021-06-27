@@ -3,7 +3,7 @@
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
+	
 	font-size: 16px;
 	font-family: helvetica, arial;
 	background: #2c3e50;
@@ -49,7 +49,7 @@
 
 .quiz__footer 
 {
-	position: absolute;
+	
 	bottom: 0;
 	display: block;
 	width: 100%;
@@ -57,6 +57,7 @@
 
 .footer__content 
 {
+margin-top: 50px;
 	padding: 5px;
 }
 
@@ -73,6 +74,7 @@
 	margin: 2px auto;
 	cursor: pointer;
 	margin-top: 10px;
+	
 }
 
 .button_wrong 
