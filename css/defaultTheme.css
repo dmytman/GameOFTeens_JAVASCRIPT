@@ -1,0 +1,30 @@
+.body_q, .html_q{
+	background: #2c3e50;
+	color: #fff;
+    transition: 1s;
+}
+.quiz-frame
+{
+	border: 0;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.button
+{
+    transition: 1s;
+	background: #3498db;
+	color: #fff;
+}
+.button_wrong 
+{
+	background: #EB6465;
+}
+
+.button_correct
+{
+	background: #5EB97D;
+}
+
+.button_passive
+{
+	background: #B3B3B3;
+}
