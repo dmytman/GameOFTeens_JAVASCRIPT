@@ -21,7 +21,7 @@
     background-color: rgba(0,0,0,0.6);
 }
 .modal .modal_content {
-    background-color: #fefefe;
+    background-color: #3498db;
     border: 1px solid #888; 
 }
 .modal .modal_content .close_modal_window {

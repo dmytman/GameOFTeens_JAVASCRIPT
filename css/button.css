@@ -85,3 +85,19 @@ margin-top: 50px;
 {
 	background: #B3B3B3;
 }
+
+.back_button{
+	background:#297aaf;
+	border-radius: 111px;
+	padding: 17px 8px;
+	color:  #ffffff;
+	display: inline-block;
+	font: normal bold 17px/1 "Open Sans", sans-serif;
+	text-align: center;
+	border: none;
+	position: fixed;
+	font-weight: 200;
+}
+.back{
+	text-decoration: none;
+}

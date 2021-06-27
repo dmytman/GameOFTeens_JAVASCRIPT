@@ -55,7 +55,6 @@
     width: 100%;
     height: 100%;
     overflow: auto;
-
     z-index: 1000;
 }
 .modal .modal_content {
@@ -76,7 +75,6 @@
 
 .wrapper .icon {
   position: relative;
-
   border-radius: 50%;
   padding: 15px;
   margin: 10px;
@@ -87,7 +85,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
   cursor: pointer;
   transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
@@ -126,4 +123,24 @@
 
 a{
   text-decoration: none;
+}
+
+.title_text{
+	color:  #ffffff;
+	font: normal bold 30px/1 "Open Sans", sans-serif;
+	text-align: center;
+	font-weight: 800;
+  margin-top: 50px;
+  padding-bottom: 40px;
+}
+
+.text_modal{
+  color:  #ffffff;
+	font: normal 16px "Open Sans", sans-serif;
+	text-align: center;
+	font-weight: 800;
+}
+
+.wrapper_modal{
+  display: flex;
 }
