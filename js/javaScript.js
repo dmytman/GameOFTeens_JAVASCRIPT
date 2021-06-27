@@ -176,9 +176,9 @@ const questions =
                 new Answer("Такого не існує", 0)
             ]),
 
-        new Question("Як створити вузол?",
+        new Question("Яка властивість для того,щоб створити вузол?",
             [
-                new Answer(" document.makeElement", 0),
+                new Answer("document.makeElement", 0),
                 new Answer("Такого не існує", 0),
                 new Answer("document.createElement", 1),
                 new Answer("document.createtElement", 0)
